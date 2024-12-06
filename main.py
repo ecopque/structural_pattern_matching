@@ -23,4 +23,4 @@ execute_command('cd')
 
 #1: Não é obrigatório usar 'case _:'. Este equivale ao 'else'.
 
-# https://linktr.ee/edsoncopque
+# Edson Copque | https://linktr.ee/edsoncopque
